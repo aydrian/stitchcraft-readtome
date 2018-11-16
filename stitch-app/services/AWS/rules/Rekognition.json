@@ -1,0 +1,6 @@
+{
+    "name": "Rekognition",
+    "actions": [
+        "rekognition:DetectText"
+    ]
+}

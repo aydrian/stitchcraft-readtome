@@ -1,0 +1,6 @@
+{
+    "name": "Polly",
+    "actions": [
+        "polly:SynthesizeSpeech"
+    ]
+}
